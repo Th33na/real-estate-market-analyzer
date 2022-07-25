@@ -2,6 +2,7 @@
 
 This app is meant to provide interactive visualizations, and geospatial analysis, to find properties in the San Francisco market that are viable investment opportunities. The market data and geo mapping are for San Francisco, but it can be adopted and used for other locations.
 
+## Technologies
 
 This project uses python 3.9 with the following tools/libraries/APIs:
 
@@ -16,7 +17,7 @@ This project uses python 3.9 with the following tools/libraries/APIs:
 
 ## Usage
 
-Open/Run `fhousing_analysis_app.ipynb` in jupyter notebook.
+Open/Run `housing_analysis_app.ipynb` in jupyter notebook.
 
 
 ---
